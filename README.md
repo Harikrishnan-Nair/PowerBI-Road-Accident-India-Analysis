@@ -16,6 +16,7 @@ Road Accident Analysis is the power BI project created to analyse the trends in 
 14. Number of total injured persons
 
 The data for this project was retrieved from National Data and Analytics Platform which is a public platform facilitating access to government data. The data for this project comes umder the purview of Ministry of Road Transport and Highways, Government of India.
+![p1_new](https://github.com/Harikrishnan-Nair/PowerBI-Road-Accident-India-Analysis/assets/95662379/a239c9ef-e2d4-4da9-aca4-778cba01909c)
 
 Key Insights:
 1.	The total count of accidents over the year has been more or less the same except for year 2020. This might be due to the nationwide lockdowns enforced during the CoVID19 pandemic which had restricted the vehicular traffic.
